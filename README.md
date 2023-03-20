@@ -4,7 +4,7 @@
     </b>
 </h1>
 
-<p align="center">Promise based HTTP client for the browser and node.js</p>
+<p align="center">Promise based HTTP client for the browser and node.js，你好，胡闹的，不要当真</p>
 
 <p align="center">
     <a href="https://axios-http.com/"><b>Website</b></a> •
